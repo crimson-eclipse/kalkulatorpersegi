@@ -1,21 +1,7 @@
 version: 0.0
 os: linux
 files:
-  - source: /index.php
-    destination: /var/www/html
-  - source: /about
-    destination: /var/www/html
-  - source: /contact
-    destination: /var/www/html
-  - source: /css
-    destination: /var/www/html
-  - source: /fonts
-    destination: /var/www/html
-  - source: /images
-    destination: /var/www/html
-  - source: /js
-    destination: /var/www/html
-  - source: /perhitungan
+  - source: /
     destination: /var/www/html
 hooks:
   BeforeInstall:
