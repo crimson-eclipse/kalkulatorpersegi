@@ -9,8 +9,6 @@ files:
     destination: /var/www/html
   - source: /css
     destination: /var/www/html
-  - source: /font-awesome-4.6.1
-    destination: /var/www/html
   - source: /fonts
     destination: /var/www/html
   - source: /images
