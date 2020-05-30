@@ -1,9 +1,7 @@
 version: 0.0
 os: linux
 files:
-  - source: /index.html
-    destination: /var/www/html/
-  - source: /happiness.png
+  - source: /index.php
     destination: /var/www/html/
 hooks:
   BeforeInstall:
