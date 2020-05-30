@@ -1,3 +1,4 @@
 #!/bin/bash
 apt install -y apache2
+apt install -y php
 rm /var/www/html/index.html
