@@ -37,7 +37,7 @@
 			</div>
 		</nav>		
 		<div class="jumbotron text-center">
-			<h1>Katik <small style="color: #d5d5d5 !important;">Kalkulator Matematik</small></h1> 			
+			<h1>Katik <small style="color: #d5d5d5 !important;">Kalkulator Matematik Adsis</small></h1> 			
 		</div>			
 		<div class="container">
 			<div class="homepage">
